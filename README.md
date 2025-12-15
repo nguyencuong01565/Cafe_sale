@@ -34,11 +34,13 @@
 -Doanh thu theo từng tháng trong năm 2023: Doanh thu không có sự biến động mạnh, dao động từ $6.800 - $7.200 <br>
 -Top 4 doanh thu theo sản phẩm: Salad, Sandwich, Smoothie <br>
 -Doanh thu theo hình thức bán: Online và Offline tương đương nhau. Tuy nhiên có khoảng 40% dữ liệu không xác định về hình thức bán (rất lớn) <br>
--Doanh thu dựa theo các ngày trong tuần: Chỉ duy nhất thứ 7 có ghi nhận doanh thu lớn hơn các ngày còn lại trong tuần (hơn 10%)
--Phương thức thanh toán: Cash, Credit card, Digital wallet tương đương nhau và có 1 phần lớn dữ liệu không xác định.
+-Doanh thu dựa theo các ngày trong tuần: Chỉ duy nhất thứ 7 có ghi nhận doanh thu lớn hơn các ngày còn lại trong tuần (hơn 10%) <br>
+-Phương thức thanh toán: Cash, Credit card, Digital wallet tương đương nhau và có 1 phần lớn dữ liệu không xác định. <br>
 
-**Insight sơ bộ:
--Top doanh thu đến từ các sản phẩm 
+**Insight sơ bộ: <br>
+-Top doanh thu đến từ các sản phẩm bán kèm như: salad, smoothie, sandwich <br>
+-Doanh thu theo tháng tương đối ổn định, không có điểm bứt phá trong năm <br>
+-Missing value tương đối lớn, ảnh hưởng đến phân tích chuyên sâu hơn  <br>
 
 
 
