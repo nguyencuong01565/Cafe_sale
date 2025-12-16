@@ -25,10 +25,12 @@
 -Chuẩn hoá định dạng text bằng Proper, Trim và Flashfill <br>
 -Tách cột Transaction_time thành các cột thể hiện Day, Month, year <br>
 -Xử lý lỗi value: <br>
-  +Chuyển các lỗi blank, error, unknown thành giá trị duy nhất: Unknown <br>
+  +Chuyển các lỗi blank, error, unknown thành giá trị duy nhất: Unknown để bảo toàn tính  <br>
   +Riêng với cột total_sale: Sử dụng power querry & group by để tìm giá trị average của mỗi Product -> Impute theo Product <br>
 -Kiểm tra bằng Pivot table -> 100% lỗi đã được chuẩn hoá <br>
 *Kết quả: File sạch, sẵn sàng để phân tích (Sheet Table_Cafe_new) <br>
+
+**File sample 500 dòng: 
 
 2. Exploratory Analysis <br>
 -Doanh thu theo từng tháng trong năm 2023: Doanh thu không có sự biến động mạnh, dao động từ $6.800 - $7.200 <br>
