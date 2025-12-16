@@ -44,7 +44,8 @@
 -Doanh thu theo tháng tương đối ổn định, không có điểm bứt phá trong năm <br>
 -Missing value tương đối lớn, ảnh hưởng đến phân tích chuyên sâu hơn  <br>
 
-
+3.Visualization
+-Dashboard: 
 
 
 
